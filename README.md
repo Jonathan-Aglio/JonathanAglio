@@ -1,2 +1,5 @@
 ## olá! Eu sou o Jonathan Aglio
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<div>
+  <a href="https://github.com/Jonathan-Aglio">
+    <img height="175em" src"https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+</div>
